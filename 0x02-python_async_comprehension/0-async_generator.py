@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""An Async Generator Program"""
+"""a coroutine called async_generator that takes no arguments"""
 import asyncio
 import random
 from typing import Generator

@@ -1,7 +1,3 @@
-
-Curriculum
-Short Specializations
-Average: 90.54%
 0x02. Python - Async Comprehension
 Python
 Back-end
