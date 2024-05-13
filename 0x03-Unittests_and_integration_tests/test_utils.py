@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A module to test the utils module methods"""
+"""A module to test the utils"""
 import unittest
 from typing import Dict, Tuple, Union
 from unittest.mock import patch, Mock
